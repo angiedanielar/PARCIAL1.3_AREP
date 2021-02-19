@@ -47,8 +47,6 @@ mvn package
 
 ```
 mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.app.Client"
-
-And put this link in your browser: http://localhost:8080
 ```
 
 ## Built With
